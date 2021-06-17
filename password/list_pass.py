@@ -2,7 +2,7 @@
 # Jika Ingin Mengubah pw_tambahan Harap Gunakan Pemisah Menggunakan |
 pw_tambahan="""
 
-bismillah|sayang|bangsat|anjing|kontol
+bismillah|sayang|cantik|rahasia|kontol
 
 """.strip().split("|")
 ngntd=((())>(()))+((())>(()))
